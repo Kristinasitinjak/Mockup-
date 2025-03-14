@@ -1,10 +1,10 @@
 # Mockup-
 Mockup menggunakan Balsamiq
-# 🎨 Mockup Aplikasi Rekrutmen
+#  Mockup Aplikasi Rekrutmen
 
 Mockup ini dibuat untuk memberikan gambaran visual tentang pengalaman pengguna dalam menggunakan aplikasi rekrutmen. Desain ini mencakup fitur utama dalam proses rekrutmen, mulai dari pendaftaran hingga pengelolaan aplikasi pekerjaan.
 
-## 📌 Fitur yang Tersedia
+##  Fitur yang Tersedia
 
 ✅  Pendaftaran Akun  – Pengguna dapat membuat akun baru.  
 ✅  Login  – Akses ke akun dengan kredensial yang telah terdaftar.  
